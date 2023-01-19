@@ -10,4 +10,7 @@ awscli
 boto3
 dvc
 jupyterlab
-gitinit     
+gitinit 
+scikit-learn
+argparse
+    
