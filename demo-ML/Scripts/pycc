@@ -1,0 +1,3 @@
+#!D:\Obulesu_gajula_onedrive\OneDrive - Course5 Intelligence Pvt Ltd\Desktop\ML\demo-ML\Scripts\python.exe
+from numba.pycc import main
+main()

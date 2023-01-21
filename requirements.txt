@@ -13,4 +13,5 @@ jupyterlab
 gitinit 
 scikit-learn
 argparse
+mlflow
     
