@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Obulesu_gajula_onedrive/OneDrive%20-%20Course5%20Intelligence%20Pvt%20Ltd/Desktop/ML/mlruns/830542577726510293/712b648534b74e80adc19a0b59dcb061/artifacts
+end_time: 1674454692488
+entry_point_name: ''
+experiment_id: '830542577726510293'
+lifecycle_stage: active
+run_id: 712b648534b74e80adc19a0b59dcb061
+run_name: mlops
+run_uuid: 712b648534b74e80adc19a0b59dcb061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674454690299
+status: 4
+tags: []
+user_id: obulesu.gajula
