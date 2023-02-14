@@ -14,4 +14,4 @@ gitinit
 scikit-learn
 argparse
 mlflow
-    
+psycopg2
