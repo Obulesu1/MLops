@@ -15,3 +15,6 @@ scikit-learn
 argparse
 mlflow
 psycopg2
+django
+aws-ecs-services
+gunicorn
